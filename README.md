@@ -19,5 +19,5 @@ vagrant destroy
 
 #### postgres_db
 
-*Description -* Creates a clean postgres database that you can access from your host OS
-*Connection details -* Port: 5432, User: mrserver, Pass: password01
+**Description -** Creates a clean postgres database that you can access from your host OS
+**Connection details -** Port: 5432, User: mrserver, Pass: password01
